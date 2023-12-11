@@ -1,0 +1,21 @@
+<project>
+    <documents></documents>
+    <dmdesigns>
+        <dmdesign active>
+            <dmdesignskill skill="tw.colors">
+                <dmcolor key="dark_cyan" color="#0B404D" shade-50="#dae2e4" shade-100="#b1bfc4" shade-200="#889da4" shade-300="#607d86" shade-400="#395e69" shade-500="#0B404D" shade-600="#0b3742" shade-700="#0b2f38" shade-800="#0a262e" shade-900="#081e24" shade-950="#04161b"/>
+                <dmcolor key="background_cyan" color="#082931" shade-50="#dadfe0" shade-100="#adb7ba" shade-200="#829095" shade-300="#596c72" shade-400="#314950" shade-500="#082931" shade-600="#09242a" shade-700="#0a1f24" shade-800="#0a1a1e" shade-900="#071518" shade-950="#030e11"/>
+                <dmcolor key="yellow" color="#FFD700" shade-50="#fff9d9" shade-100="#fff3bb" shade-200="#ffec9c" shade-300="#ffe579" shade-400="#ffde51" shade-500="#FFD700" shade-600="#dcb900" shade-700="#b99c00" shade-800="#988000" shade-900="#786500" shade-950="#594b00"/>
+                <dmcolor key="bright_cyan" color="#28c1de" shade-50="#dff6fa" shade-100="#c3ebf4" shade-200="#a6e1ef" shade-300="#87d6e9" shade-400="#62cce4" shade-500="#28c1de" shade-600="#23a6bf" shade-700="#1e8ca1" shade-800="#197384" shade-900="#135b68" shade-950="#0e444e"/>
+                <dmcolor key="soft_blue" color="#87ceeb" shade-50="#edf8fc" shade-100="#daeff9" shade-200="#c7e7f5" shade-300="#b3dff2" shade-400="#9ed6ee" shade-500="#87ceeb" shade-600="#74b1ca" shade-700="#6296ab" shade-800="#517b8c" shade-900="#40616e" shade-950="#2f4852"/>
+                <dmcolor key="lime_green" color="#3cb371" shade-50="#e2f4ea" shade-100="#c4e7d1" shade-200="#a5dab8" shade-300="#86cda0" shade-400="#64c088" shade-500="#3cb371" shade-600="#349a61" shade-700="#2c8252" shade-800="#246b43" shade-900="#1d5435" shade-950="#153f28"/>
+                <dmcolor key="soft_yellow" color="#F2E5BD" shade-50="#fdfbf5" shade-100="#fbf7ea" shade-200="#f9f2df" shade-300="#f7eed3" shade-400="#f5e9c8" shade-500="#F2E5BD" shade-600="#d0c5a3" shade-700="#b0a689" shade-800="#908871" shade-900="#726c59" shade-950="#555042"/>
+                <dmcolor key="beige" color="#f5f0e1" shade-50="#fdfdfa" shade-100="#fcfaf5" shade-200="#faf8f0" shade-300="#f8f5eb" shade-400="#f7f3e6" shade-500="#f5f0e1" shade-600="#d3cfc2" shade-700="#b2aea3" shade-800="#928f86" shade-900="#73716a" shade-950="#56544f"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" family_1 family_2="Montserrat" family_3="Plus Jakarta Sans" name_3="titles" h1_1 h2_1 h3_1 h4_1 h5_1 h6_1 h1_3="h1" h2_3="h2" h3_3="h3" h4_3="h4" h5_3="h5" h6_3="h6"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image></dmdesignskill>
+            <dmdesignskill skill="tailwind"></dmdesignskill>
+        </dmdesign>
+    </dmdesigns>
+    <dmlocked tw-colors-gray="true" tw-colors-red="true" tw-colors-yellow="true" tw-colors-green="true" tw-colors-blue="true" tw-colors-indigo="true" tw-colors-purple="true" tw-colors-pink="true"></dmlocked>
+</project>

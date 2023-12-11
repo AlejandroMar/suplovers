@@ -1,0 +1,62 @@
+---
+name: "Ruta Muelle Viejo"
+distance: "3.5 kilometers"
+duration: "1 hour"
+cost: "60,000 pesos"
+highlights:
+  - name: "Pelicans"
+    images:
+      - url: "images/highlights/pelicans_1.jpg"
+        alt: "Pelicans Highlight Image 1"
+      - url: "images/highlights/pelicans_2.jpg"
+        alt: "Pelicans Highlight Image 2"
+  - name: "Seagulls"
+    images:
+      - url: "images/highlights/seagulls_1.jpg"
+        alt: "Seagulls Highlight Image 1"
+      - url: "images/highlights/seagulls_2.jpg"
+        alt: "Seagulls Highlight Image 2"
+  - name: "Bird Watching"
+    images:
+      - url: "images/highlights/bird_watching_1.jpg"
+        alt: "Bird Watching Highlight Image 1"
+      - url: "images/highlights/bird_watching_2.jpg"
+        alt: "Bird Watching Highlight Image 2"
+sightings: 
+  - name: "Pelicans"
+    images:
+      - url: "images/sightings/pelicans_1.jpg"
+        alt: "Pelicans Sighting Image 1"
+      - url: "images/sightings/pelicans_2.jpg"
+        alt: "Pelicans Sighting Image 2"
+  - name: "Seagulls"
+    images:
+      - url: "images/sightings/seagulls_1.jpg"
+        alt: "Seagulls Sighting Image 1"
+      - url: "images/sightings/seagulls_2.jpg"
+        alt: "Seagulls Sighting Image 2"
+  - name: "Bird Watching"
+    images:
+      - url: "images/sightings/bird_watching_1.jpg"
+        alt: "Bird Watching Sighting Image 1"
+      - url: "images/sightings/bird_watching_2.jpg"
+        alt: "Bird Watching Sighting Image 2"
+departure_startpoint: "Coveñas"
+transportation_details: "Not specified"
+tour_level: "Beginner"
+tour_inclusions:
+  - "Safety equipment"
+  - "Refreshments"
+  - "Hydration"
+booking_info: "Contact for reservations"
+group_size: "Not specified"
+schedule_availability: "Not specified"
+cancellation_policy: "Not specified"
+requirements_prerequisites: "None"
+guide_to_participant_ratio: "Not specified"
+photography_policy: "Allowed"
+weather_considerations: "Not specified"
+special_events_occasions: "None"
+location:
+  map: "https://maps.google.com/?q=your_lat,your_long"  # Replace with actual map URL
+---

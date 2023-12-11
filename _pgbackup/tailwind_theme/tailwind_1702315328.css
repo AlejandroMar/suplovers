@@ -1437,36 +1437,9 @@ body, html {
   }
 
 
-  .lg\:overflow-clip{
-    overflow: clip;
-  }
-
-
-  .lg\:truncate{
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-
-
-  .lg\:overflow-ellipsis{
-    text-overflow: ellipsis;
-  }
-
-
   .lg\:break-normal{
     overflow-wrap: normal;
     word-break: normal;
-  }
-
-
-  .lg\:break-words{
-    overflow-wrap: break-word;
-  }
-
-
-  .lg\:break-all{
-    word-break: break-all;
   }
 
 

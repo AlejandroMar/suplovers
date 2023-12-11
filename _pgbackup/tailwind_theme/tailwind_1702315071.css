@@ -1437,51 +1437,6 @@ body, html {
   }
 
 
-  .lg\:overflow-clip{
-    overflow: clip;
-  }
-
-
-  .lg\:truncate{
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-
-
-  .lg\:overflow-ellipsis{
-    text-overflow: ellipsis;
-  }
-
-
-  .lg\:break-normal{
-    overflow-wrap: normal;
-    word-break: normal;
-  }
-
-
-  .lg\:break-words{
-    overflow-wrap: break-word;
-  }
-
-
-  .lg\:break-all{
-    word-break: break-all;
-  }
-
-
-  .lg\:decoration-slice{
-    -webkit-box-decoration-break: slice;
-            box-decoration-break: slice;
-  }
-
-
-  .lg\:decoration-clone{
-    -webkit-box-decoration-break: clone;
-            box-decoration-break: clone;
-  }
-
-
   .lg\:px-4{
     padding-left: 1rem;
     padding-right: 1rem;

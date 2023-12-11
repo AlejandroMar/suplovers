@@ -1158,6 +1158,10 @@ select{
   font-size: 4.5rem;
   line-height: 1;
 }
+.text-8xl{
+  font-size: 6rem;
+  line-height: 1;
+}
 .text-9xl{
   font-size: 8rem;
   line-height: 1;
@@ -1177,6 +1181,10 @@ select{
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+.text-xs{
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 .font-bold{
   font-weight: 700;
@@ -1437,23 +1445,6 @@ body, html {
   }
 
 
-  .lg\:overflow-clip{
-    overflow: clip;
-  }
-
-
-  .lg\:truncate{
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-
-
-  .lg\:overflow-ellipsis{
-    text-overflow: ellipsis;
-  }
-
-
   .lg\:break-normal{
     overflow-wrap: normal;
     word-break: normal;
@@ -1462,11 +1453,6 @@ body, html {
 
   .lg\:break-words{
     overflow-wrap: break-word;
-  }
-
-
-  .lg\:break-all{
-    word-break: break-all;
   }
 
 

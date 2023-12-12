@@ -1158,10 +1158,6 @@ select{
   font-size: 4.5rem;
   line-height: 1;
 }
-.text-8xl{
-  font-size: 6rem;
-  line-height: 1;
-}
 .text-9xl{
   font-size: 8rem;
   line-height: 1;
@@ -1181,10 +1177,6 @@ select{
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-.text-xs{
-  font-size: 0.75rem;
-  line-height: 1rem;
 }
 .font-bold{
   font-weight: 700;

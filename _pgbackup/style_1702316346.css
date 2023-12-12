@@ -6,8 +6,10 @@
     height: 80vh;
 }
 
-.hero h1 {
-    color: transparent;
+.hero div {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
     top: 30%;
 
     /* Adjust as needed */
@@ -15,21 +17,10 @@
 
     /* Adjust as needed */
     transform: translate(-50%, -50%);
-
-    /* Center the text */
-    filter: url(#outline-shadow);
 }
 
-.hero p {
-    top: 10%;
-
-    /* Adjust as needed */
-    left: 50%;
-
-    /* Adjust as needed */
-    transform: translate(-50%, -50%);
-
-    /* Center the text */
+.hero h1 {
+    color: transparent;
     filter: url(#outline-shadow);
 }
 

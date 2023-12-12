@@ -1010,8 +1010,17 @@ select{
   --tw-border-opacity: 1;
   border-color: rgb(255 215 0 / var(--tw-border-opacity));
 }
+.border-opacity-0{
+  --tw-border-opacity: 0;
+}
 .border-opacity-10{
   --tw-border-opacity: 0.1;
+}
+.border-opacity-100{
+  --tw-border-opacity: 1;
+}
+.border-opacity-20{
+  --tw-border-opacity: 0.2;
 }
 .border-opacity-25{
   --tw-border-opacity: 0.25;
@@ -1019,8 +1028,32 @@ select{
 .border-opacity-30{
   --tw-border-opacity: 0.3;
 }
+.border-opacity-40{
+  --tw-border-opacity: 0.4;
+}
+.border-opacity-5{
+  --tw-border-opacity: 0.05;
+}
 .border-opacity-50{
   --tw-border-opacity: 0.5;
+}
+.border-opacity-60{
+  --tw-border-opacity: 0.6;
+}
+.border-opacity-70{
+  --tw-border-opacity: 0.7;
+}
+.border-opacity-75{
+  --tw-border-opacity: 0.75;
+}
+.border-opacity-80{
+  --tw-border-opacity: 0.8;
+}
+.border-opacity-90{
+  --tw-border-opacity: 0.9;
+}
+.border-opacity-95{
+  --tw-border-opacity: 0.95;
 }
 .bg-background_cyan-500{
   --tw-bg-opacity: 1;
@@ -1176,24 +1209,8 @@ select{
   font-size: 1.875rem;
   line-height: 2.25rem;
 }
-.text-4xl{
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
 .text-5xl{
   font-size: 3rem;
-  line-height: 1;
-}
-.text-6xl{
-  font-size: 3.75rem;
-  line-height: 1;
-}
-.text-7xl{
-  font-size: 4.5rem;
-  line-height: 1;
-}
-.text-8xl{
-  font-size: 6rem;
   line-height: 1;
 }
 .text-9xl{
@@ -1215,10 +1232,6 @@ select{
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-.text-xs{
-  font-size: 0.75rem;
-  line-height: 1rem;
 }
 .font-bold{
   font-weight: 700;

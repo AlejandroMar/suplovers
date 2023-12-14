@@ -1404,10 +1404,6 @@ h1,h2,h3,h4,h5,h6{
 body, html {
     min-height: 100vh;
 }                    
-.hover\:bg-blue-600:hover{
-  --tw-bg-opacity: 1;
-  background-color: rgb(37 99 235 / var(--tw-bg-opacity));
-}                    
 .hover\:text-blue-600:hover{
   --tw-text-opacity: 1;
   color: rgb(37 99 235 / var(--tw-text-opacity));
@@ -1415,10 +1411,6 @@ body, html {
 .hover\:text-blue-800:hover{
   --tw-text-opacity: 1;
   color: rgb(30 64 175 / var(--tw-text-opacity));
-}                    
-.hover\:text-white:hover{
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }                    
 .hover\:text-yellow-500:hover{
   --tw-text-opacity: 1;

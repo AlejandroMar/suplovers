@@ -12,7 +12,7 @@
                 <dmcolor key="soft_yellow" color="#F2E5BD" shade-50="#fdfbf5" shade-100="#fbf7ea" shade-200="#f9f2df" shade-300="#f7eed3" shade-400="#f5e9c8" shade-500="#F2E5BD" shade-600="#d0c5a3" shade-700="#b0a689" shade-800="#908871" shade-900="#726c59" shade-950="#555042"/>
                 <dmcolor key="beige" color="#f5f0e1" shade-50="#fdfdfa" shade-100="#fcfaf5" shade-200="#faf8f0" shade-300="#f8f5eb" shade-400="#f7f3e6" shade-500="#f5f0e1" shade-600="#d3cfc2" shade-700="#b2aea3" shade-800="#928f86" shade-900="#73716a" shade-950="#56544f"/>
             </dmdesignskill>
-            <dmdesignskill skill="fonts" family_1="Montserrat" family_2 family_3="MyWebFont" name_3="titles" h1_1 h2_1 h3_1 h4_1 h5_1 h6_1 h1_3="h1" h2_3="h2" h3_3="h3" h4_3="h4" h5_3="h5" h6_3="h6" name_4="paragraphs" family_4="Montserrat" family_5="" name_5=""></dmdesignskill>
+            <dmdesignskill skill="fonts" family_1 family_2 family_3="MyWebFont" name_3="titles" h1_1 h2_1 h3_1 h4_1 h5_1 h6_1 h1_3="h1" h2_3="h2" h3_3="h3" h4_3="h4" h5_3="h5" h6_3="h6" name_4="paragraphs" family_4="Montserrat" family_5="" name_5=""></dmdesignskill>
             <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image></dmdesignskill>
             <dmdesignskill skill="tailwind"></dmdesignskill>
         </dmdesign>

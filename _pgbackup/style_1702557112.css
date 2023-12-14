@@ -44,13 +44,3 @@
         height: 70vh;
     }
 }
-
-@media (min-width: 768px) {
-    .join-us {
-        background-image: url('assets/imgs/hero.jpg');
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: cover;
-        background-attachment: fixed;
-    }
-}

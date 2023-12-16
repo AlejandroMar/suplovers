@@ -1192,8 +1192,17 @@ select{
 .text-center{
   text-align: center;
 }
+.font-mono{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
 .font-paragraphs{
   font-family: 'Montserrat', sans-serif;
+}
+.font-sans{
+  font-family: 'Montserrat', sans-serif;
+}
+.font-serif{
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 .font-titles{
   font-family: 'MyWebFont';
@@ -1234,26 +1243,17 @@ select{
   font-size: 1.25rem;
   line-height: 1.75rem;
 }
-.font-black{
-  font-weight: 900;
-}
 .font-bold{
   font-weight: 700;
 }
 .font-extrabold{
   font-weight: 800;
 }
-.font-extralight{
-  font-weight: 200;
-}
 .font-light{
   font-weight: 300;
 }
 .font-medium{
   font-weight: 500;
-}
-.font-normal{
-  font-weight: 400;
 }
 .font-semibold{
   font-weight: 600;
